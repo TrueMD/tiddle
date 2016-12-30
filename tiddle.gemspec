@@ -5,7 +5,7 @@ require 'tiddle/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tiddle"
-  spec.version       = Tiddle::VERSION
+  spec.version       = '0.6.0'
   spec.authors       = ["Adam Niedzielski"]
   spec.email         = ["adamsunday@gmail.com"]
   spec.summary       = %q{Token authentication for Devise which supports multiple tokens per model}
